@@ -43,7 +43,7 @@
  <img src="https://img.shields.io/badge/-belkrafis-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:belkrafis@gmail.com"/>
 </a>
 <a href="https://www.linkedin.com/in/saad-belkrafi/">
- <img src="https://img.shields.io/badge/-ritikrawal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/saad-belkrafi/"/>
+ <img src="https://img.shields.io/badge/-Saad Belkrafi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/saad-belkrafi/"/>
 </a>
 </p>
 
